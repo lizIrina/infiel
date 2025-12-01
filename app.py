@@ -27,7 +27,7 @@ def home():
             </style>
         </head>
         <body>
-            <h1>Irina recuperacion</h1>
+            <h1>ya basta</h1>
             <p>hola mundo</p>
         </body>
     </html>
